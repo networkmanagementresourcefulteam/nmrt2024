@@ -1,0 +1,5 @@
+<a href="home.html"><i class="fa fa-home"></i> HOME </a>
+<a href="gridcard.html"><i class="fa-solid fa-user"></i> GRIDCARD </a>
+<a href="gallery.html"><i class="fa fa-image"></i> GALLERY</a>
+<a href="restrictedstatelist.html"><i class="fa fa-ban"></i> RESTRICTED STATE LIST</a>
+<a href="tipsoftheday.html"><i class="fa fa-book"></i> TIPS OF THE DAY</a>
